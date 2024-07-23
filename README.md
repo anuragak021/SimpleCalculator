@@ -25,7 +25,7 @@ All the rows and columns of the keypad were connected to the digital pins of the
 One can connect an LCD Display to the Arduino to show the input and output.
 
 **Software Implementation:**
-Arduino code in c++ was written to initialize the keypad and LCD Display.Functions were implemented to read keypad input and perform arithmetic operations.
+Arduino code in c++ was written to initialize the keypad and LCD Display. This is available in the calculator.cpp file . Functions were implemented to read keypad input and perform arithmetic operations.
 The LCD Screen was used as a display output or input 
 
 **User Interaction:**
