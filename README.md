@@ -9,4 +9,6 @@ A Simple Calculator on Arduino UNO
   Keypad (4*4)
 
 Circuit Diagram :
+
+
 ![Circuit Diagram (Tinker CAD)](https://github.com/anuragak021/SimpleCalculator/blob/main/Screenshot%20from%202024-07-23%2019-53-12.png)
